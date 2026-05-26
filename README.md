@@ -137,7 +137,7 @@ We upgraded the robot by switching from two medium motors down to just one mediu
 
 Regarding the vision system, we moved the camera from the top of the robot to the front, positioning it right above the steering motor for a clearer view. Lastly, we changed our steering setup; while our first robot used small wheels for steering, we have now upgraded to slightly bigger steering wheels while keeping the larger rear wheels, giving the robot improved turning precision, better traction, and smoother overall movement on the mat.
 
-#1
+# 1
 
 
 
