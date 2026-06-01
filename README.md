@@ -137,8 +137,21 @@ Regarding the vision system, we moved the camera from the top of the robot to th
 
 # 1
 
+<img width="1920" height="957" alt="1" src="https://github.com/user-attachments/assets/74a09851-1681-48d9-83a9-6d009160ead9" />
+<img width="1920" height="957" alt="2" src="https://github.com/user-attachments/assets/73a21e8e-a449-432d-89e1-bcc35e51a817" />
+<img width="1920" height="957" alt="3" src="https://github.com/user-attachments/assets/9d5a0afc-e4a0-44b0-a906-02c0f47724e1" />
+<img width="1920" height="957" alt="4" src="https://github.com/user-attachments/assets/236fa3a2-372c-426b-8cf3-4c5b3474a08c" />
+<img width="1920" height="957" alt="5" src="https://github.com/user-attachments/assets/bc0c3472-2f30-4924-99c7-b77c20a2038c" />
+<img width="1920" height="957" alt="6" src="https://github.com/user-attachments/assets/f4a51b66-668c-48d6-b97b-b3c7b8385107" />
 
+# 1.1
 
+<img width="1920" height="957" alt="7" src="https://github.com/user-attachments/assets/8053415a-9663-4840-9c07-4e7452576175" />
+<img width="1920" height="957" alt="8" src="https://github.com/user-attachments/assets/469b1bb7-872b-4104-b216-dc78a3d09123" />
+<img width="1920" height="957" alt="9" src="https://github.com/user-attachments/assets/5c7d24f3-1293-4c8a-bbc4-61010473bfd2" />
+<img width="1920" height="957" alt="10" src="https://github.com/user-attachments/assets/ddc7a0c2-00c1-4b68-adce-5ae0431f2c71" />
+<img width="1920" height="957" alt="11" src="https://github.com/user-attachments/assets/a22aa35e-bd4c-43d1-8f64-84b726561f9b" />
+<img width="1920" height="957" alt="12" src="https://github.com/user-attachments/assets/44260112-6be4-4185-8e1a-71e5a5feed31" />
 
 # Credits
 We are deeply proud to represent our school, Toplink Global College Inc., which constantly supports our passion for innovation and robotics. We also want to extend our heartfelt thanks to our beloved coach, your patience, guidance, and continuous encouragement truly inspired us throughout this journey. Finally, we express our sincere appreciation to LEGO Mindstorms; the high-quality components and flexible design of the EV3 kit provided the hands-on experience that allowed us to explore, build, and bring this project to life.
