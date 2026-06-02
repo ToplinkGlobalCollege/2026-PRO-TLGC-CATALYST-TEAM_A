@@ -1,6 +1,7 @@
 # Robot info
+<img width="1024" height="768" alt="arc" src="https://github.com/user-attachments/assets/26c53aa5-6ed8-410d-bdcc-ea94f15d273a" />
 
-**Name:** 
+**Name:** Arc
 
 **Weight:** 
 
@@ -42,7 +43,7 @@ We don’t just wander we drive the way forward.
 Our EV3 autonomous car uses one Medium Motor to drive forward, powering the main wheels. This single-motor setup provides consistent speed for straight movement while allowing us to precisely control distance. By utilizing one Medium Motor instead of two Medium Motors, the car gains a more compact design and reduced weight, making it highly agile. Additionally, the built in rotation sensor in the motor helps us measure exactly how far the wheels rotate, allowing for precise tracking, smoother acceleration, and highly accurate autonomous navigation.
 
 ## Turning Strategy
-Our EV3 robot utilizes a custom rack and pinion steering mechanism for the front wheels. Instead of a traditional gear rack, we mounted a half gear element to a beam to serve as a simplified rack. When driven by the motor, this gear translates the beam laterally, pivoting the front wheels left or right. This mechanical linkage ensures smooth, proportional steering, maximizing maneuverability and stability during precise turns and alignment tasks. By simplifying the design, we minimized mechanical complexity while guaranteeing reliable performance during runs.
+Our EV3 robot uses a custom steering setup for the front wheels. Instead of a normal gear rack, we attached a half gear to a beam to make a simple rack. When the motor turns, this gear moves the beam sideways to turn the front wheels left or right. This setup makes the steering smooth and precise, which helps the robot turn well and stay steady. By keeping the design simple, we made it less complicated and made sure it works reliably during runs.
 
 ## Motors Used
 ### Medium Motor
@@ -57,10 +58,10 @@ We’ve powered our self driving car using the EV3 rechargeable battery, which p
 <img width="1335" height="1696" alt="465793506-5939e7b1-b03f-4d41-bfef-d27653e3c9d5" src="https://github.com/user-attachments/assets/1654a735-59d6-4868-95e6-60dd627a598f" />
 
 ## Voltage and Current Details
-Our EV3 robot runs on a 7.2V rechargeable lithium-ion battery featuring a 2050 mAh capacity. While actual operation time depends on the robot's real-time power draw, this allows the battery to supply 2.05 amps of current for one full hour. It efficiently drives the EV3 brick, motors, and sensors all at once, ensuring a steady voltage for uniform performance. This rechargeable power pack is significantly more practical and economical than standard disposable batteries, making it perfect for prolonged training runs and competitions.
+Our EV3 robot runs on a 7.2V rechargeable lithium-ion battery with a 2050 mAh capacity. While its actual operation time depends on the robot's real-time power draw, this battery is capable of supplying a steady 2.05 amps of current for one full hour. It seamlessly powers the EV3 brick, motors, and sensors all at once to ensure a consistent voltage for uniform performance. Much more practical and economical than standard disposable batteries, this rechargeable power pack is perfect for prolonged training runs and competitions.
 
 ## Power Safety & Management
-To ensure the EV3 robot's safety and reliability, we implemented strict power management and insulation protocols. The rechargeable battery was fully charged before each run, and the EV3 brick was powered down immediately after use to conserve energy and prevent overheating. Additionally, we applied insulating materials to key connections, eliminating the risk of short circuits or accidental contact with exposed wiring. These proactive measures protected both the hardware and the team, ensuring the robot remained stable and competition-ready.
+To guarantee the reliability and safety of the EV3 robot, we followed strict insulation and power management protocols. Before every run, the rechargeable battery was fully charged, and we powered down the EV3 brick immediately after use to prevent overheating and conserve energy. We also applied insulating materials to critical connections, removing the risk of accidental contact with exposed wiring or short circuits. These proactive measures protected the team and the hardware alike, ensuring the robot stayed stable and ready for competition.
 
 # Obstacle Avoidment
 
